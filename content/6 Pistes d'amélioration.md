@@ -24,3 +24,5 @@ De + la possibilité d'implémenter l'ajout depuis galerie permettrait d'avoir t
 
 SQL:
 Rajouter à la base de donnée un systeme d'user avec des rankings(Abonnement par exemple Gold Platine Etccccc) et de possessions d'albums (25 albums max pour user gold par exemple)
+
+Pour l'accélération du GPU par Docker, il faudrait peut être build `Tensorflow` à partir de la source.

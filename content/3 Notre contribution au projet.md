@@ -60,7 +60,6 @@ Nous avons aussi choisi d'utiliser un classifieur Tensorflow que l'on entraine s
 
 - Nous avons utilisé Tensorflow en AADA
 - Pour utiliser le GPU (malheureusement nous n'avons pas réussi)
-- 
 
 # Bonus
 
