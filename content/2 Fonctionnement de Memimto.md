@@ -2,6 +2,8 @@ Memimto comporte un Client Web pour l'utilisateur qui communique avec le côté 
 ![[Pasted image 20240405144855.png]]
 # Front end
 
+Tout est expliqué dans la partie suivante : [[1.Comment ca marche|Comment ça marche]]
+
 # Back end
 
 ## Base de données
