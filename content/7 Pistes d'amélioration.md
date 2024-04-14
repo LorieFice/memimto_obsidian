@@ -26,3 +26,5 @@ SQL:
 Rajouter à la base de donnée un systeme d'user avec des rankings(Abonnement par exemple Gold Platine Etccccc) et de possessions d'albums (25 albums max pour user gold par exemple)
 
 Pour l'accélération du GPU par Docker, il faudrait peut être build `Tensorflow` à partir de la source.
+
+Utiliser les `box` qui localisent les visages détectés pour qu'on puisse cliquer dessus et passer sur le cluster qui correspond à cette personne .
