@@ -10,4 +10,4 @@ Il faut souvent réadapter les paramètres du clustering pour qu'il colle mieux 
 
 - Malgrés de nombreuses heures à installer de nouvelles distributions Linux, et à tester des paramètres de docker pour que le container utilise le **GPU**, nous n'avons pas réussi à faire en sorte que `Tensorflow` et `DeepFace` (qui dépend de `Tensorflow`) utilisent l'accélération matérielle.
 
-Cependant, voici quelques [[6 Pistes d'amélioration]]
+Cependant, voici quelques [[7 Pistes d'amélioration]]

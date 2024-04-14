@@ -17,7 +17,7 @@ Cependant, un grand défaut qui limite notre clustering est le cas particulier q
 - Si la distance est trop sélective, alors beaucoup de visages sont considérés comme du bruit, que `DBSCAN` va ignorer
 - Si la distance n'est pas assez sélective, alors il y aura plus de visages que de clusters
 
-C'est une des [[5 Limites]] de notre projet : nous n'arrivons pas à trouver des paramètres de `DBSCAN` qui satisfont tous les types d'albums.
+C'est une des [[6 Limites]] de notre projet : nous n'arrivons pas à trouver des paramètres de `DBSCAN` qui satisfont tous les types d'albums.
 ## Code
 ```Python
 def cluster(album_db, faces_db, db_session):

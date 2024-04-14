@@ -8,11 +8,12 @@ Memimto permet de classer des images d'albums photos selon les personnes détect
 
 Quelques liens qui peuvent vous être utiles :
 - [[1 Installation|Installation]]
-- [[2 Fonctionnement de Memimto|Fonctionnement de Memimto]]
-- [[3 Notre contribution au projet|Notre contribution]]
-- [[4 Ce qu'on a appris|Ce qu'on a appris]]
-- [[5 Limites|Limites]] du projet
-- [[6 Pistes d'amélioration|Pistes d'amélioration]]
+- [[2 Utilisation|Utilisation]]
+- [[3 Fonctionnement de Memimto|Fonctionnement de Memimto]]
+- [[4 Notre contribution au projet|Notre contribution]]
+- [[5 Ce qu'on a appris|Ce qu'on a appris]]
+- [[6 Limites|Limites]] du projet
+- [[7 Pistes d'amélioration|Pistes d'amélioration]]
 
 
 Pour plus d'infos : [Le lien du github de la V1](https://github.com/zyioump)
